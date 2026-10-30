@@ -7,3 +7,7 @@
 </div>
 
 ---
+
+<p align="center">
+  <img src="assets/img/Frame%20550.png" alt="Jean-Wayne Foord Banner" width="100%" />
+</p>
