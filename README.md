@@ -101,7 +101,5 @@
 <code>//Sizing up the gap.</code>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Some+Statistics)](https://git.io/typing-svg)
-
 </div>
+
