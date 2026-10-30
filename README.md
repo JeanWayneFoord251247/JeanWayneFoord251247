@@ -12,13 +12,21 @@
   <img src="assets/img/Frame%20550.png" alt="Jean-Wayne Foord Banner" width="100%" />
 </p>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=About+Me)](https://git.io/typing-svg)
+---
+</div>
+
+
 ```json
 {
   "developer": {
     "name": "Jean-Wayne Foord",
-    "title": "Full-Stack Developer",
+    "title": "Junior Full-Stack Developer",
+    "education": "Bachelor of Creative Technology @ Open Window",
     "base": "South Africa",
-    "status": "Alive, caffeinated, and pushing to main"
+    "status": "Alive, caffeinated, and pushing straight to main"
   },
   "stack": {
     "frontend": ["React", "Vite", "JavaScript", "HTML5", "CSS3"],
@@ -53,7 +61,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Tech+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Tech+Stack)](https://git.io/typing-svg)
 ---
 
 ### Frontend and Client-Side
@@ -68,3 +76,12 @@
 </div>
 
 ---
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Things+I+Built+Instead+of+Sleeping)](https://git.io/typing-svg)
+---
+
+</div>
+
