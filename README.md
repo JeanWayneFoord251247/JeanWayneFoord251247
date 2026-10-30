@@ -81,7 +81,27 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Things+I+Built+Instead+of+Sleeping)](https://git.io/typing-svg)
+
+<p align=center"">
+<code>//Go ahead and click them. I promise my handleSubmit handler actually works and routes you straight to the repos.</code>
+</p>
+
 ---
 
-</div>
+[<img width="1920" height="300" alt="banner" src="https://github.com/user-attachments/assets/4cf601dc-1ba4-4f6e-a718-393a12b7d7db" />](https://github.com/JeanWayneFoord251247/doorway-to-dignity/blob/main/README.md)
 
+<code>//Hope begins with one act of kindness. Dignity begins with all of us.</code>
+
+[<img width="1920" height="270" alt="banner" src="https://github.com/user-attachments/assets/a60a8897-1c82-4f37-a453-04b0ed670d90" />](https://github.com/JeanWayneFoord251247/typemania)
+
+<code>//Where chaotic speed meets surgical precision — a real-time web-based competitive typing speed test platform.</code>
+
+[<img width="1920" height="370" alt="banner" src="https://github.com/user-attachments/assets/26664332-5ad9-4a0c-9fcf-28b1eecce3d0" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
+
+<code>//Sizing up the gap.</code>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Some+Statistics)](https://git.io/typing-svg)
+
+</div>
