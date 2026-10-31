@@ -96,7 +96,7 @@
 
 <code>//Where chaotic speed meets surgical precision — a real-time web-based competitive typing speed test platform.</code>
 
-[<img width="1920" height="370" alt="banner" src="https://github.com/user-attachments/assets/26664332-5ad9-4a0c-9fcf-28b1eecce3d0" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
+[<img width="1920" height="370" alt="banner" src="./assets/img/Grid Compare Refined.png" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
 
 <code>//Sizing up the gap.</code>
 
