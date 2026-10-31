@@ -18,7 +18,6 @@
 ---
 </div>
 
-
 ```json
 {
   "developer": {
@@ -61,22 +60,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Tech+Stack)](https://git.io/typing-svg)
----
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Tech+Stack)](https://git.io/typing-svg)
 
 ### Frontend and Client-Side
+
 <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite" alt="Frontend"/>
 
 ### Backend, Databases and Cloud
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mongo,mysql,firebase,aws" alt="Backend & Cloud"/>
 
 ### Systems, Hardware and Tooling
+
 <img src="https://skillicons.dev/icons?i=arduino,cpp,github,vscode,npm" alt="Systems & Tools"/>
 
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -96,10 +96,10 @@
 
 <code>//Where chaotic speed meets surgical precision — a real-time web-based competitive typing speed test platform.</code>
 
-[<img width="1920" height="370" alt="banner" src="./assets/img/Grid Compare Refined.png" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
+[<img width="1920" height="270" alt="banner" src="./assets/img/Grid Compare Refined.png" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
 
 <code>//Sizing up the gap.</code>
 
 ---
-</div>
 
+</div>
