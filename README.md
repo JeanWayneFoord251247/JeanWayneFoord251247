@@ -102,4 +102,6 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=40&duration=3000&pause=1000&color=E7DAC9&center=true&vCenter=true&width=700&height=100&lines=Thank+you+for+visiting+stranger!)](https://git.io/typing-svg)
+
 </div>
