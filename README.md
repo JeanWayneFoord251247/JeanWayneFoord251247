@@ -82,7 +82,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=3000&color=E7DAC9&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Things+I+Built+Instead+of+Sleeping)](https://git.io/typing-svg)
 
-<p align=center"">
+<p align="center">
 <code>//Go ahead and click them. I promise my handleSubmit handler actually works and routes you straight to the repos.</code>
 </p>
 
@@ -99,6 +99,30 @@
 [<img width="1920" height="270" alt="banner" src="./assets/img/Grid Compare Refined.png" />](https://github.com/JeanWayneFoord251247/dv200_formula1_website)
 
 <code>//Sizing up the gap.</code>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E7DAC9&center=true&vCenter=true&width=435&lines=Some+Stats)](https://git.io/typing-svg)
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JeanWayneFoord251247&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=JeanWayneFoord251247&include_all_commits=true&theme=midnight-purple) </br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JeanWayneFoord251247&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JeanWayneFoord251247&langs_count=4&theme=midnight-purple) </br>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=E7DAC9&center=true&vCenter=true&width=435&lines=My+Repository's)](https://git.io/typing-svg)
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JeanWayneFoord251247&repo=JeanWayneFoord251247%2Fdv200_formula1_website&theme=midnight-purple)](https://github.com/JeanWayneFoord251247/dv200_formula1_website) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JeanWayneFoord251247&repo=JeanWayneFoord251247%2Ftypemania&theme=midnight-purple)](https://github.com/JeanWayneFoord251247/typemania)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JeanWayneFoord251247&repo=RhichelleStrauss%2FLavenderRoute&theme=midnight-purple)](https://github.com/RhichelleStrauss/LavenderRoute)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JeanWayneFoord251247&repo=JeanWayneFoord251247%2Fdoorway-to-dignity&theme=midnight-purple)](https://github.com/JeanWayneFoord251247/doorway-to-dignity)
+
+</div>
 
 ---
 
