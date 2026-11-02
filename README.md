@@ -36,7 +36,7 @@
   },
   "pipeline": {
     "previousProjects": [
-      "F1 Visualizer — Built with MERN & Jolpica API so I can present scientific, peer-reviewed bar charts on why Ferrari ruined my Sunday",
+      "F1 Visualiser — Built with MERN & Jolpica API so I can present scientific, peer-reviewed bar charts on why Ferrari ruined my Sunday",
       "E-Commerce Platform — Built a MERN marketplace with Rhicelle Strauss, Wian Burger, and Nell Janse Van Rensburg where our biggest triumph was surviving Git merge conflicts and dodging accidental password          leaks",
       "TypeMania — A PHP/MySQL arcade typing game where I disabled backspace just to watch people panic when their mistakes became permanent",
       "Doorway to Dignity — A real production MERN platform built for an actual charity, powered exclusively by energy drinks and gaslighting myself into believing there are zero bugs",
